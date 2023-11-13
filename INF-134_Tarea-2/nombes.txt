@@ -1,0 +1,21 @@
+1- Alvaro Patricio Rojas Valenzuela 202273502-3 Par. 203
+    Programador de:
+        - LinkList TDA
+        - ABB TDA
+        - main problema 2
+
+
+2- Sergio Roberto Rojas Gutierrez 202273619-4 Par. 201
+    Programador de:
+        - void writeADN(LinkList &new_ADN)
+        - void readInstrucciones()
+        - void encender(tElem i, ABB &postersOn)
+        - void cuantos_encender(tElem i, ABB &posterON)
+
+            
+3- Jose Ignacio Valenzuela Von Unger 202273635-6 Par. 201
+    Programador de:
+        - void insertar(LinkList &edit_ADN, int position, char nucleotido)
+        - void borrar(LinkList &edit_ADN, int position)
+        - void intercambiar(LinkList &edit_ADN, int position, char nucleotido)
+        - void parar_programa(ABB &posterON)

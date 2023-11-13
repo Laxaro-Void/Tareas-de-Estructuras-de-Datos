@@ -1,0 +1,26 @@
+1- Alvaro Patricio Rojas Valenzuela 202273502-3 Par. 203
+    Programador de:
+        - void variosDias(Personas * personas, int cant_dias)
+        - int * comprarTarjeta(string nombre, int dia, int &m)
+        - bool puedeConsumir(char * rut, int servicio, string consumos_dias)
+            //Extraer datos del archivo binario
+            //Lectura de los Consumos del Dia
+            //Reinicia el fstream para la escritura
+
+2- Sergio Roberto Rojas Gutierrez 202273619-4 Par. 201
+    Programador de:
+        - Persona * unDia(Persona * p1)
+            // Buscar la Persona con el Puntaje Maximo
+        - int puntaje(Persona * p1)
+        - bool puedeConsumir(char * rut, int servicio, string consumos_dias)
+            // Otros Aportes pequeños
+            
+3- Jose Ignacio Valenzuela Von Unger 202273635-6 Par. 201
+    Programador de:
+        - Persona * unDia(Persona * p1)
+            // Realizar Intercambio de Tarjetas
+            // Comprar Tarjetas a cada Persona
+        - void intercambiarTArjeta(Persona * p1, Persona * p2)
+        - bool puedeConsumir(char * rut, int servicio, string consumos_dias)
+            // Seleccion de Caso unico para el retorno
+            
