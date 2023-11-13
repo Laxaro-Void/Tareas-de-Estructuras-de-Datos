@@ -1,0 +1,35 @@
+1- Alvaro Patricio Rojas Valenzuela 202273502-3 Par. 203
+    Programador de:
+    - size_t funcionSonda(size_t i)
+    - tipoInfo * HashInsert(Hash HT[], tipoClave key, tipoInfo data)
+    - tipoInfo * HashErrase(Hash HT[], tipoClave key)
+    - tipoInfo * HashSearch(Hash HT[], tipoClave key)
+    - tipoInfo * HashReplace(Hash HT[], tipoClave key, tipoInfo data)
+    - void floatHeap(Node Heap[], int i)
+    - tipoInfo * end();
+    - void PushComand(PriorityQueue<size_t, Comand> &PQ, size_t &creados)
+
+
+
+2- Sergio Roberto Rojas Gutierrez 202273619-4 Par. 201
+    Programador de:
+    - bool iniciar_sesion(std::string usario, std::string clave)
+    - bool crear_nuevo_usuario(std::string usuario, std::string clave)
+    - bool cambiar_clave(std::string usuario, std::string clave)
+    - int compare(Node Heap[], int a, int b)
+    - void swap(Node * a, Node * b)
+    - tipoInfo * get(tipoClave key);
+    - tipoInfo * replace(tipoClave key, tipoInfo data);
+    - void Get(PriorityQueue<size_t, Comand> &PQ, size_t &enviados)
+    
+
+
+3- Jose Ignacio Valenzuela Von Unger 202273635-6 Par. 201
+    Programador de:
+    - void calcularfactor()
+    - void resize()
+    - void push_back(tipoPriority P, tipoInfo I)
+    - tipoInfo * insert(tipoClave key, tipoInfo data);
+    - tipoInfo * remove(tipoClave key);
+    - main problema1.cpp
+    - main problema2.cpp
